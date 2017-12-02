@@ -1,2 +1,2 @@
-# Linear-Regresssion----Project
+# LinearRegresssionProject
 Boston Housing Data
